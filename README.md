@@ -1,1 +1,1 @@
-# Restaurant Responsive Website
+# Responsive Restaurant Website
