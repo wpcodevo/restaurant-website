@@ -281,6 +281,7 @@ li {
 /* About Section */
 .section {
   padding: 5rem 0 7rem 0;
+  overflow-x: hidden;
 }
 
 .about {
